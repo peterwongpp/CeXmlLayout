@@ -44,3 +44,10 @@ Any better fixes?
 I can't find yet. If any of you have ideas on this, please leave me comments / issues.
 
 Forking and doing a pull request are welcome!
+
+Files I should read in the example
+----------------------------------
+
+- app/views/layout/application.xml.builder
+- app/views/songs/index.xml.builder
+- app/controllers/songs_controller.rb
