@@ -1,5 +1,3 @@
-xml.instruct!
-
 xml.songs do
   @songs.each do |song|
     xml.song do
